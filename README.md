@@ -1,4 +1,6 @@
 ﻿ByteTCC是一个基于TCC（Try/Confirm/Cancel）机制的分布式事务管理器。兼容JTA，可以很好的与EJB、Spring等容器（本文档下文说明中将以Spring容器为例）进行集成。
+ 
+ http://jm.taobao.org/2017/09/01/post-20170901/
 
 ## 一、快速入门
 #### 1.1. 加入maven依赖
